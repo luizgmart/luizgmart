@@ -1,4 +1,4 @@
-<code>print("Welcome to my github!😆")</code>
+<code>print("Welcome to my github!😉")</code>
 <hr>
 
 <p>🎓 Graduating in Systems Analysis and Development at <a href="https://portal.uniasselvi.com.br/institucional" target="blank_">Uniasselvi</a></p>
