@@ -56,8 +56,9 @@ I’m a software engineering enthusiast currently working with data, combining a
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:luizgmart@outlook.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
+
 </div>
 
 
