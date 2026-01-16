@@ -48,11 +48,6 @@ I’m a software engineering enthusiast currently working with data, combining a
 
 ---
 
-### 🏛️ Architecture & Principles
-`Clean Architecture` • `SOLID` • `Design Patterns (Factory, Singleton)` • `Unit Testing`
-
----
-
 ### 📫 Let's Connect!
 
 <div align="center">
