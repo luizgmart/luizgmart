@@ -5,8 +5,7 @@ I’m a software engineering enthusiast currently working with data, combining a
 
 * 🎓 Bachelor’s degree in Software Engineering (in progress)
 * 🎓 Associate degree in Systems Analysis and Development
-* 🚀 Focus on **scalable backends** and **data-intensive applications**
-
+* 🚀 Focus on **data-intensive applications**
 ---
 
 ### 🛠️ Tech Stack & Tools
