@@ -1,9 +1,8 @@
 # Hi there, I'm Luiz 👋
 
 ### 🧬 About Me
-I’m passionate about software engineering and data-driven solutions, applying analytical thinking and strong engineering practices to build robust and scalable products.
+I’m passionate about data-driven solutions, applying analytical thinking and strong engineering practices to build robust and scalable products.
 
-* 🎓 Bachelor’s degree in Software Engineering (in progress)
 * 🎓 Associate degree in Systems Analysis and Development
 * 🚀 Focus on **data-intensive applications**
 ---
