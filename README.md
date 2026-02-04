@@ -3,8 +3,9 @@
 ### 🧬 About Me
 I’m passionate about data-driven solutions, applying analytical thinking and strong engineering practices to build robust and scalable products.
 
+* 🎓 Bachelor’s Degree in Computer Science (in progress)
 * 🎓 Associate degree in Systems Analysis and Development
-* 🚀 Focus on **data-intensive applications**
+* 🚀 Focus on **data-intensive and scalable applications**
 ---
 
 ### 🛠️ Tech Stack & Tools
