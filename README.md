@@ -46,8 +46,10 @@ I’m passionate about data-driven solutions, applying analytical thinking and s
 </p>
 
 
-<div align="center">
+
 ### 📫 Let's Connect!
+
+<div align="center">
   <a href="https://www.linkedin.com/in/luizgmart/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
