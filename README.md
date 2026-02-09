@@ -45,7 +45,7 @@ I’m passionate about data-driven solutions, applying analytical thinking and s
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-
+---
 
 <h3 align="center">📫 Let's Connect!</h3>
 
