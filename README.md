@@ -8,60 +8,56 @@ I’m passionate about data-driven solutions, applying analytical thinking and s
 * 🚀 Focus on **data-intensive and scalable applications**
 ---
 
-### 🛠️ Tech Stack & Tools
-
-## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
 ### **Languages**
 <p align="left">
-  <img src="https://flatbadges.com/badge/Python/Language?icon=python&color=3776AB" alt="Python" />
-  <img src="https://flatbadges.com/badge/Go/Language?icon=go&color=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </p>
 
 ---
 
 ### **Backend Frameworks**
 <p align="left">
-  <img src="https://flatbadges.com/badge/FastAPI/Framework?icon=fastapi&color=009688" alt="FastAPI" />
-  <img src="https://flatbadges.com/badge/Django/Framework?icon=django&color=092E20" alt="Django" />
-  <img src="https://flatbadges.com/badge/Flask/Framework?icon=flask&color=000000" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
 ---
 
 ### **Data Processing & Big Data**
 <p align="left">
-  <img src="https://flatbadges.com/badge/Apache%20Spark/Big%20Data?icon=data&color=E25A1C" alt="Apache Spark" />
-  <img src="https://flatbadges.com/badge/PySpark/Big%20Data?icon=code&color=E25A1C" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />
 </p>
 
 ---
 
 ### **Data & Streaming**
 <p align="left">
-  <img src="https://flatbadges.com/badge/Apache%20Kafka/Streaming?icon=apache-kafka&color=231F20" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
 </p>
 
 ---
 
 ### **Orchestration**
 <p align="left">
-  <img src="https://flatbadges.com/badge/Apache%20Airflow/Orchestration?icon=apache-airflow&color=017CEE" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
 </p>
 
 ---
 
 ### **Databases**
 <p align="left">
-  <img src="https://flatbadges.com/badge/PostgreSQL/Database?icon=postgresql&color=4169E1" alt="PostgreSQL" />
-  <img src="https://flatbadges.com/badge/MySQL/Database?icon=mysql&color=4479A1" alt="MySQL" />
-  <img src="https://flatbadges.com/badge/MongoDB/Database?icon=mongodb&color=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
+---
 
 ### 📫 Let's Connect!
 
