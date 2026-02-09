@@ -31,7 +31,6 @@ I’m passionate about data-driven solutions, applying analytical thinking and s
 ### **Data Processing & Big Data**
 <p align="left">
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />
 </p>
 
 ---
