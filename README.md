@@ -10,42 +10,53 @@ I’m passionate about data-driven solutions, applying analytical thinking and s
 
 ### 🛠️ Tech Stack & Tools
 
-#### **Languages**
+## 🛠️ Tech Stack
+
+### **Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://badgen.net/badge/Python/Language/3776AB" alt="Python" />
+  <img src="https://badgen.net/badge/Go/Language/00ADD8" alt="Go" />
 </p>
 
-#### **Backend Frameworks**
+---
+
+### **Backend Frameworks**
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://badgen.net/badge/FastAPI/Framework/009688" alt="FastAPI" />
+  <img src="https://badgen.net/badge/Django/Framework/092E20" alt="Django" />
+  <img src="https://badgen.net/badge/Flask/Framework/000000" alt="Flask" />
 </p>
 
-#### **Data Processing & Big Data**
+---
+
+### **Data Processing & Big Data**
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />
+  <img src="https://badgen.net/badge/Apache%20Spark/Big%20Data/E25A1C" alt="Apache Spark" />
+  <img src="https://badgen.net/badge/PySpark/Big%20Data/E25A1C" alt="PySpark" />
 </p>
 
-#### **Data & Streaming**
+---
+
+### **Data & Streaming**
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://badgen.net/badge/Apache%20Kafka/Streaming/231F20" alt="Apache Kafka" />
 </p>
 
-#### **Orchestration**
+---
+
+### **Orchestration**
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://badgen.net/badge/Apache%20Airflow/Orchestration/017CEE" alt="Apache Airflow" />
 </p>
 
-#### **Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+---
 
+### **Databases**
+<p align="left">
+  <img src="https://badgen.net/badge/PostgreSQL/Database/4169E1" alt="PostgreSQL" />
+  <img src="https://badgen.net/badge/MySQL/Database/4479A1" alt="MySQL" />
+  <img src="https://badgen.net/badge/MongoDB/Database/47A248" alt="MongoDB" />
+</p>
 
 ---
 
