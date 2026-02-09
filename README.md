@@ -14,53 +14,54 @@ I’m passionate about data-driven solutions, applying analytical thinking and s
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 ### **Languages**
 <p align="left">
-  <img src="https://img.devbadge.co/badge/python?icon=python&scale=1.2" alt="Python" />
-  <img src="https://img.devbadge.co/badge/go?icon=go&scale=1.2" alt="Go" />
+  <img src="https://flatbadges.com/badge/Python/Language?icon=python&color=3776AB" alt="Python" />
+  <img src="https://flatbadges.com/badge/Go/Language?icon=go&color=00ADD8" alt="Go" />
 </p>
 
 ---
 
 ### **Backend Frameworks**
 <p align="left">
-  <img src="https://img.devbadge.co/badge/fastapi?icon=fastapi&scale=1.2" alt="FastAPI" />
-  <img src="https://img.devbadge.co/badge/django?icon=django&scale=1.2" alt="Django" />
-  <img src="https://img.devbadge.co/badge/flask?icon=flask&scale=1.2" alt="Flask" />
+  <img src="https://flatbadges.com/badge/FastAPI/Framework?icon=fastapi&color=009688" alt="FastAPI" />
+  <img src="https://flatbadges.com/badge/Django/Framework?icon=django&color=092E20" alt="Django" />
+  <img src="https://flatbadges.com/badge/Flask/Framework?icon=flask&color=000000" alt="Flask" />
 </p>
 
 ---
 
 ### **Data Processing & Big Data**
 <p align="left">
-  <img src="https://img.devbadge.co/badge/apache-spark?icon=apache-spark&scale=1.2" alt="Apache Spark" />
-  <img src="https://img.devbadge.co/badge/pyspark?icon=apache-spark&scale=1.2" alt="PySpark" />
+  <img src="https://flatbadges.com/badge/Apache%20Spark/Big%20Data?icon=data&color=E25A1C" alt="Apache Spark" />
+  <img src="https://flatbadges.com/badge/PySpark/Big%20Data?icon=code&color=E25A1C" alt="PySpark" />
 </p>
 
 ---
 
 ### **Data & Streaming**
 <p align="left">
-  <img src="https://img.devbadge.co/badge/apache-kafka?icon=apache-kafka&scale=1.2" alt="Apache Kafka" />
+  <img src="https://flatbadges.com/badge/Apache%20Kafka/Streaming?icon=apache-kafka&color=231F20" alt="Apache Kafka" />
 </p>
 
 ---
 
 ### **Orchestration**
 <p align="left">
-  <img src="https://img.devbadge.co/badge/apache-airflow?icon=apache-airflow&scale=1.2" alt="Apache Airflow" />
+  <img src="https://flatbadges.com/badge/Apache%20Airflow/Orchestration?icon=apache-airflow&color=017CEE" alt="Apache Airflow" />
 </p>
 
 ---
 
 ### **Databases**
 <p align="left">
-  <img src="https://img.devbadge.co/badge/postgresql?icon=postgresql&scale=1.2" alt="PostgreSQL" />
-  <img src="https://img.devbadge.co/badge/mysql?icon=mysql&scale=1.2" alt="MySQL" />
-  <img src="https://img.devbadge.co/badge/mongodb?icon=mongodb&scale=1.2" alt="MongoDB" />
+  <img src="https://flatbadges.com/badge/PostgreSQL/Database?icon=postgresql&color=4169E1" alt="PostgreSQL" />
+  <img src="https://flatbadges.com/badge/MySQL/Database?icon=mysql&color=4479A1" alt="MySQL" />
+  <img src="https://flatbadges.com/badge/MongoDB/Database?icon=mongodb&color=47A248" alt="MongoDB" />
 </p>
 
----
 
 ### 📫 Let's Connect!
 
