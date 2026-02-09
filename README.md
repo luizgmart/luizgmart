@@ -12,50 +12,52 @@ I’m passionate about data-driven solutions, applying analytical thinking and s
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 ### **Languages**
 <p align="left">
-  <img src="https://badgen.net/badge/Python/Language/3776AB" alt="Python" />
-  <img src="https://badgen.net/badge/Go/Language/00ADD8" alt="Go" />
+  <img src="https://img.devbadge.co/badge/python?icon=python&scale=1.2" alt="Python" />
+  <img src="https://img.devbadge.co/badge/go?icon=go&scale=1.2" alt="Go" />
 </p>
 
 ---
 
 ### **Backend Frameworks**
 <p align="left">
-  <img src="https://badgen.net/badge/FastAPI/Framework/009688" alt="FastAPI" />
-  <img src="https://badgen.net/badge/Django/Framework/092E20" alt="Django" />
-  <img src="https://badgen.net/badge/Flask/Framework/000000" alt="Flask" />
+  <img src="https://img.devbadge.co/badge/fastapi?icon=fastapi&scale=1.2" alt="FastAPI" />
+  <img src="https://img.devbadge.co/badge/django?icon=django&scale=1.2" alt="Django" />
+  <img src="https://img.devbadge.co/badge/flask?icon=flask&scale=1.2" alt="Flask" />
 </p>
 
 ---
 
 ### **Data Processing & Big Data**
 <p align="left">
-  <img src="https://badgen.net/badge/Apache%20Spark/Big%20Data/E25A1C" alt="Apache Spark" />
-  <img src="https://badgen.net/badge/PySpark/Big%20Data/E25A1C" alt="PySpark" />
+  <img src="https://img.devbadge.co/badge/apache-spark?icon=apache-spark&scale=1.2" alt="Apache Spark" />
+  <img src="https://img.devbadge.co/badge/pyspark?icon=apache-spark&scale=1.2" alt="PySpark" />
 </p>
 
 ---
 
 ### **Data & Streaming**
 <p align="left">
-  <img src="https://badgen.net/badge/Apache%20Kafka/Streaming/231F20" alt="Apache Kafka" />
+  <img src="https://img.devbadge.co/badge/apache-kafka?icon=apache-kafka&scale=1.2" alt="Apache Kafka" />
 </p>
 
 ---
 
 ### **Orchestration**
 <p align="left">
-  <img src="https://badgen.net/badge/Apache%20Airflow/Orchestration/017CEE" alt="Apache Airflow" />
+  <img src="https://img.devbadge.co/badge/apache-airflow?icon=apache-airflow&scale=1.2" alt="Apache Airflow" />
 </p>
 
 ---
 
 ### **Databases**
 <p align="left">
-  <img src="https://badgen.net/badge/PostgreSQL/Database/4169E1" alt="PostgreSQL" />
-  <img src="https://badgen.net/badge/MySQL/Database/4479A1" alt="MySQL" />
-  <img src="https://badgen.net/badge/MongoDB/Database/47A248" alt="MongoDB" />
+  <img src="https://img.devbadge.co/badge/postgresql?icon=postgresql&scale=1.2" alt="PostgreSQL" />
+  <img src="https://img.devbadge.co/badge/mysql?icon=mysql&scale=1.2" alt="MySQL" />
+  <img src="https://img.devbadge.co/badge/mongodb?icon=mongodb&scale=1.2" alt="MongoDB" />
 </p>
 
 ---
