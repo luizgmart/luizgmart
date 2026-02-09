@@ -47,7 +47,7 @@ I’m passionate about data-driven solutions, applying analytical thinking and s
 
 
 
-### 📫 Let's Connect!
+<h3 align="center">📫 Let's Connect!</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luizgmart/" target="_blank">
