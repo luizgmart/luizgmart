@@ -10,15 +10,12 @@ I’m passionate about data-driven solutions, applying analytical thinking and s
 
 
 ## 🛠️ Tech Stack
----
 ### **Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </p>
-
----
 
 ### **Data Engineering**
 <p align="left">
@@ -27,8 +24,6 @@ I’m passionate about data-driven solutions, applying analytical thinking and s
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
-
----
 
 ## **Cloud & Infrastructure**
 <p align="left">
