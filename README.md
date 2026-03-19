@@ -1,10 +1,10 @@
 # Hi there, I'm Luiz 👋
 
 ### 🧬 About Me
-I’m passionate about data-driven solutions, applying analytical thinking and strong engineering practices.
+I’m passionate about building data-driven systems, applying analytical thinking and strong engineering practices.
 
 * 🎓 Associate degree in Systems Analysis and Development
-* 🚀 Focus on **data-intensive and scalable applications**
+* 🚀 Focus on building scalable data pipelines and data architectures**
 ---
 
 ## 🛠️ Tech Stack
