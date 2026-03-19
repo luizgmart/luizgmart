@@ -4,7 +4,7 @@
 I’m passionate about building data-driven systems, applying analytical thinking and strong engineering practices.
 
 * 🎓 Associate degree in Systems Analysis and Development
-* 🚀 Focus on building scalable data pipelines and data architectures**
+* 🚀 Focus on building scalable data pipelines and data architectures
 ---
 
 ## 🛠️ Tech Stack
