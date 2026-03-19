@@ -7,7 +7,6 @@ I’m passionate about data-driven solutions, applying analytical thinking and s
 * 🚀 Focus on **data-intensive and scalable applications**
 ---
 
-
 ## 🛠️ Tech Stack
 ### **Languages**
 <p align="left">
@@ -47,6 +46,5 @@ I’m passionate about data-driven solutions, applying analytical thinking and s
   </a>
 
 </div>
-
 
 <br>
