@@ -1,7 +1,7 @@
 # Hi there, I'm Luiz 👋
 
 ### 🧬 About Me
-I’m passionate about analyzing data and turning it into actionable insights, applying analytical thinking to solve real-world problems.
+I transform data into insights and predictive solutions using Python, SQL and Machine Learning.
 
 * 🎓 Associate degree in Systems Analysis and Development
 * 🚀 Focus on data and AI applications
