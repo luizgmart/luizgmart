@@ -1,26 +1,32 @@
 # Hi there, I'm Luiz 👋
 
 ### 🧬 About Me
-I transform data into insights and predictive solutions using Python, SQL and Machine Learning.
+I build data pipelines and transform raw data into reliable and scalable data solutions using Python and SQL.
 
 * 🎓 Associate degree in Systems Analysis and Development
-* 🚀 Focus on data and AI applications
+* 🚀 Focus on Data Engineering and data platform solutions
+
 ---
 
 ## 🛠️ Tech Stack
+
 ### **Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
 </p>
 
-### **Data Science & Analysis**
+### **Data Engineering**
 <p align="left">
+  <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Pipelines-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### **Data Platforms (Learning)**
+<p align="left">
+  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 </p>
 
 ### **Data Visualization & BI**
@@ -34,19 +40,15 @@ I transform data into insights and predictive solutions using Python, SQL and Ma
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-
 ---
 
 <h3 align="center">📫 Let's Connect!</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luizgmart/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:luizgmart@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=maildotru&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
-
 </div>
-
-<br>
