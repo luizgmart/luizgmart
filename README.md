@@ -1,11 +1,10 @@
 # Hi there, I'm Luiz 👋
 
 ### 🧬 About Me
-I build data pipelines and transform raw data into reliable and scalable data solutions using Python and SQL.
+I’m passionate about building data-driven systems, applying analytical thinking and strong engineering practices.
 
 * 🎓 Associate degree in Systems Analysis and Development
-* 🚀 Focus on Data Engineering and data platform solutions
-
+* 🚀 Focus on building scalable data pipelines and data architectures
 ---
 
 ## 🛠️ Tech Stack
@@ -20,18 +19,17 @@ I build data pipelines and transform raw data into reliable and scalable data so
 <p align="left">
   <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Pipelines-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Automation-6A1B9A?style=for-the-badge" />
+</p>
+
+### **Data Processing**
+<p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-### **Data Platforms (Learning)**
+### **Databases**
 <p align="left">
-  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-</p>
-
-### **Data Visualization & BI**
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL%20Databases-003B57?style=for-the-badge" />
 </p>
 
 ### **Tools**
@@ -49,6 +47,6 @@ I build data pipelines and transform raw data into reliable and scalable data so
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:luizgmart@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=maildotru&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge" />
   </a>
 </div>
