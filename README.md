@@ -1,10 +1,10 @@
 # Hi there, I'm Luiz 👋
 
 ### 🧬 About Me
-I’m passionate about building data-driven systems, applying analytical thinking and strong engineering practices.
+I transform data into insights and predictive solutions using Python, SQL and Machine Learning.
 
 * 🎓 Associate degree in Systems Analysis and Development
-* 🚀 Focus on building scalable data pipelines and data architectures
+* 🚀 Focus on data and AI applications
 ---
 
 ## 🛠️ Tech Stack
@@ -14,18 +14,26 @@ I’m passionate about building data-driven systems, applying analytical thinkin
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
 </p>
 
-### **Data Engineering**
+### **Data Science & Analysis**
 <p align="left">
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-### **Cloud & Infrasctructure**
+### **Data Visualization & BI**
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+</p>
+
+### **Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 
 ---
 
