@@ -1,7 +1,7 @@
 # Hi there, I'm Luiz 👋
 
 ### 🧬 About Me
-I transform data into insights and predictive solutions using Python, SQL and Machine Learning.
+I build data-driven solutions using Python, SQL and Machine Learning
 
 * 🎓 Associate degree in Systems Analysis and Development
 * 🚀 Focus on data and AI applications
