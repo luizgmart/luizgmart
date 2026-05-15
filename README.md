@@ -5,7 +5,7 @@ I build data-driven solutions using Python, SQL, and Machine Learning, transform
 
 * 📚 Postgraduate in Data Science & Big Data — PUC Minas (in progress)
 * 🎓 Associate degree in Systems Analysis and Development
-* 🚀 Focus on Data Science and AI applications
+* 🚀 Focused on Data Science and AI applications
 
 ## 🛠️ Tech Stack
 ### **Languages**
