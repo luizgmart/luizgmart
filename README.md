@@ -1,11 +1,13 @@
 # Hi there, I'm Luiz 👋
 
 ### 🧬 About Me
-I build data-driven solutions using Python, SQL and Machine Learning, focusing on transforming raw data into actionable insights.
+I build data-driven solutions using Python, SQL and Machine Learning, 
+focusing on transforming raw data into actionable insights.
 
+* 📚 Postgraduate in Data Science & Big Data — PUC Minas (in progress)
 * 🎓 Associate degree in Systems Analysis and Development
-* 🚀 Focus on data and AI applications
----
+* 🚀 Focus on Data Science and AI applications
+--
 
 ## 🛠️ Tech Stack
 ### **Languages**
