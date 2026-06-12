@@ -1,7 +1,7 @@
 # Hi there, I'm Luiz 👋
 
 ### 🧬 About Me
-I build data-driven solutions using Python, SQL, and Machine Learning, transforming raw data into actionable insights.
+I turn raw data into clear decisions.
 
 * 📚 Postgraduate in Data Science & Big Data — PUC Minas (in progress)
 * 🎓 Associate degree in Systems Analysis and Development
@@ -23,10 +23,6 @@ I build data-driven solutions using Python, SQL, and Machine Learning, transform
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-### **Data Visualization & BI**
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-</p>
 
 ### **Tools**
 <p align="left">
