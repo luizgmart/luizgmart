@@ -3,7 +3,7 @@
 ### 🧬 About Me
 I turn raw data into clear decisions.
 
-* 📚 Postgraduate in Data Science & Big Data — PUC Minas (in progress)
+* 📚 Postgraduate Degree in Data Science & Big Data — PUC Minas (in progress)
 * 🎓 Associate degree in Systems Analysis and Development
 * 🚀 Focused on Data Engineering, Data Science and AI
 
