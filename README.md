@@ -2,8 +2,8 @@
 
 ### I turn raw data into clear decisions.
 
-📚 Postgraduate Degree in Data Science & Big Data
-🎓 Associate Degree in Systems Analysis and Development
+📚 Postgraduate Degree in Data Science & Big Data — PUC Minas *(in progress)*  
+🎓 Associate Degree in Systems Analysis and Development  
 🚀 Data Science • Machine Learning • AI
 
 ## 🛠️ Tech Stack
