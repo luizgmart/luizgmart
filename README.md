@@ -1,11 +1,10 @@
 # Hi there, I'm Luiz 👋
 
-### 🧬 About Me
-I turn raw data into clear decisions.
+### I turn raw data into clear decisions.
 
-* 📚 Postgraduate Degree in Data Science & Big Data — PUC Minas (in progress)
-* 🎓 Associate degree in Systems Analysis and Development
-* 🚀 Focused on Data Science and AI
+📚 Postgraduate Degree in Data Science & Big Data
+🎓 Associate Degree in Systems Analysis and Development
+🚀 Data Science • Machine Learning • AI
 
 ## 🛠️ Tech Stack
 ### **Languages**
@@ -28,8 +27,9 @@ I turn raw data into clear decisions.
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
-
 
 ---
 
@@ -39,9 +39,9 @@ I turn raw data into clear decisions.
   <a href="https://www.linkedin.com/in/luizgmart/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:luizgmart@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=maildotru&logoColor=white" />
-  </a>
+ <a href="mailto:luizgmart@outlook.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
 
 </div>
 
